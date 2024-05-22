@@ -9,3 +9,9 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/230.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Gold
 http://starshare.live:8080/live/T20C227070225533/202210886677/9375.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzO0vlGN5KQrB3kwtrHK04c27Ln3qYSnTTAj88jBsbSw&s" group-title="Sports", T Sports
+http://starshare.live:8080/live/T20C227070225533/202210886677/18452.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJNnJd1qNODFemW3Eaqabb7OCj_rMhnG6guvuG8gtIw&s" group-title="Sports", Gazi TV
+http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
