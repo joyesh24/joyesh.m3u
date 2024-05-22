@@ -3,3 +3,9 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/23305.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://starshare.live:8080/live/T20C227070225533/202210886677/23218.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Whu8gP5HVklGFfaA-QEUr68B8ffdIBnGc4IEqFXjCg&s" group-title="Entertainment", Zee Cinema
+http://starshare.live:8080/live/T20C227070225533/202210886677/230.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_muYk3H6cceCnfb1MkJ0MP0ZFyLlIElpCXstEyfm-svPO0=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Gold
+http://starshare.live:8080/live/T20C227070225533/202210886677/9375.ts
