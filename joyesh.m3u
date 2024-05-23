@@ -34,5 +34,11 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
 http://opplex.tv:8080/live/2312211/1616616/245895.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoHjmFaoEsI4ErBhxl6qnyCbM_Vm1Nc_rknfaSxNGyGA&s" group-title="Sports", Sony Ten 1
+http://starshare.live:8080/live/T20C227070225533/202210886677/154.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWQKpTD38H922OspcSVphF3J1y_3UpVEOFKs-KTCs1w&s" group-title="Sports", Sony Ten 5
+http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
+
 
 
