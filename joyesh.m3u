@@ -28,5 +28,8 @@ http://opplex.tv:8080/live/121151412/644261812/66224.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
 http://opplex.tv:8080/live/2312211/1616616/221259.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNZFn73807_y0gperdrAv273ElXT0o3dtkYCWV_4Fdw&s" group-title="Entertainment", Jalsha Movies
+http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
+
 
 
