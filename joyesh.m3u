@@ -25,5 +25,8 @@ http://starshare.live:8080/live/starbox868/987starbox/3801.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
 http://opplex.tv:8080/live/121151412/644261812/66224.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
+http://opplex.tv:8080/live/2312211/1616616/221259.ts
+
 
 
